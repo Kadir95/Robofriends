@@ -1,0 +1,9 @@
+body {
+    background: linear-gradient(to right, rgb(150, 218, 225), rgb(129, 78, 199));
+}
+
+.h1 {
+    color: #0ccac4;
+    text-transform: uppercase;
+    font-weight: 1000;
+}
